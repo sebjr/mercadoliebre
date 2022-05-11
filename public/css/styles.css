@@ -192,6 +192,35 @@ main section article:hover .description{
     background-color: #0022AA;
 }
 
+#pie_pagina {
+    text-align: center;
+  }
+  
+  #pie_pagina h4 {
+    font-size: 20px;
+    color: #666;
+  }
+  
+  #pie_pagina p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  h4 {
+    color: #666;
+  }
+  
+  #icon_footer {
+    text-align: center;
+    font-size: 2em;
+    color: #1259c3;
+    margin-bottom: 10px;
+  }
+  
+  footer{background-color: white;
+  padding: 2px;}
+  
+
 @media (min-width: 361px){
     main section div.products{
         display: flex;
